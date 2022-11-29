@@ -1,7 +1,7 @@
 ---
-title: Bruno Fernandes or Ronaldo who is the hero of Portugal ?
-description: We are confused about who is the hero of Portugal. The perfomance
-  of Bruno Fernandes on the match was brilliant.
+title: പോർച്ചുഗലിന്റെ ഹീറോ റൊണാൾഡോ ബ്രൂണോ ഫെർണാണ്ടസോ ?
+description: ആരാണ് പോർച്ചുഗലിന്റെ നായകൻ എന്ന ആശയക്കുഴപ്പത്തിലാണ് നമ്മൾ.
+  മത്സരത്തിൽ ബ്രൂണോ ഫെർണാണ്ടസിന്റെ പ്രകടനം മികച്ചതായിരുന്നു.
 keyword: bruno,brunofernandes,cr7,cristianoronaldo,portugal
 author: Final Goals
 date: 2022-11-29T04:29:33.560Z
@@ -10,4 +10,16 @@ tags:
 image: /assets/blog/0_gettyimages-1245184133.jpg
 imageAlt: Portugal's new hero
 ---
-We see **[Bruno Fernandes](https://www.google.com/search?gs_ssp=eJzj4tLP1TcoMC5MMzU1YPTiTyoqzctXSEstykvMS0ktBgCBvwl6&q=bruno+fernandes&rlz=1C1JJTC_enIN1018IN1018&oq=bruno&aqs=chrome.2.69i57j46i131i433i512l3j46i433i512j0i131i433l2j0i3j0i131i433j0i271.3619j0j15&sourceid=chrome&ie=UTF-8)** as the hero of Portugal in this World Cup. Earlier, the player contributed two assists in Portugal's win against Ghana. In yesterday's match they defeated Uruguay with two goals. After two well-managed games, Portugal has reached the pre-quarters of the World Cup. Both goals in the match were scored by Bruno Fernandes. The first goal was a cross, **[Cristiano](https://www.google.com/search?gs_ssp=eJzj4tTP1TcwqigxKzRg9BJMLsosLslMzMtXKMrPS8xJyQcAkaUKOw&q=cristiano+ronaldo&rlz=1C1JJTC_enIN1018IN1018&oq=crist&aqs=chrome.1.0i67i131i355i433j46i67i131i433j69i57j46i67i131i433j0i131i433i512j0i512j0i131i433i512l3j0i512.5543j0j7&sourceid=chrome&ie=UTF-8)** jumped and tried to head the ball, but he missed and the ball went into the net.This goal was scored by Bruno. The second goal was a penalty kick. Bruno Fernandes delivered a brilliant performance against Uruguay. His passing rate was 84 percent, he had 83 touches on the ball, hit five of six long balls, won three  ground balls, had three shots on goal and two goals on the match.His performance was miraculous. *Portugal's hero* *is now **Bruno Fernandes.***
+പോർച്ചുഗലിന്റെ ഹീറോ ആയി ബ്രൂണോ ഫെർണാണ്ടസ് മാറുന്ന കാഴ്ചയാണ് ഈ വേൾഡ് കപ്പിൽ നമുക്ക് കാണാൻ സാധിക്കുന്നത് നേരത്തെ മത്സരത്തിൽ ഗാനയെ പോർച്ചുഗൽ പരാജയപ്പെടുത്തുമ്പോൾ ഇരട്ട അസിസ്റ്റുകൾ ആണ് താരം നേടിയത്.
+
+ഇന്നലെ നടന്ന മത്സരത്തിൽ അദ്ദേഹത്തിന്റെ വക ഇരട്ട ഗോളുകൾ ഉണ്ടായിരുന്നു.
+
+ ഏകപക്ഷീയമായി രണ്ടു ഗോളുകൾ കൊടുക്കുകയും പരാജയപ്പെടുത്തി പോർച്ചുഗൽ വേൾഡ് കപ്പിന്റെ pre-quarter-ഇൽ ഇടം പിടിക്കുകയും ചെയ്തു.
+
+കളിയിൽ രണ്ട് ഗോളും ബ്രൂണോ ഫെർണാണ്ടസിന്റെ വക ആയിരുന്നു.
+
+ആദ്യത്തേത് ക്രോസ് പോലെ വന്നതാണ്, ക്രിസ്ത്യാനോ ചാടി വന്ന് ഹെഡ് ചെയ്യാൻ ശ്രമിച്ചു എങ്കിലും അത് ക്രിസ്ത്യാനിയുടെ തലയിൽ കൊള്ളാതെ വലയിൽ പോയി.
+
+ഈ ഗോൾ ബ്രൂണോ യുടെ പേരിൽ കുറിക്കപ്പെട്ടു. രണ്ടാമത്തെ ഗോൾ പെനാൽറ്റി ആയിരുന്നു. മിന്നുന്ന പ്രകടമായിരുന്നു ഭ്രൂണോ ഫെർണാണ്ടസ് നടത്തിയിരുന്നത്. ഉറുഗ്വേയിക്കെതിരെയുള്ള മത്സരത്തിൽ അദ്ദേഹത്തിന്റെ പാസ് ഏക്രോസി 84 ശതമാനവും, 83 ടച്ച്‌കളും, ആറ് ലോങ്ങ് ബോളുകളിൽ അഞ്ചെണ്ണവും അദ്ദേഹം കമ്പ്ലീറ്റ് ചെയ്തു, മൂന്ന് ഗ്രൗണ്ട് ബോൾസും വിൻ ചെയ്തു, മൂന്ന് ഷോട്ട് ഓൺ ടാർഗറ്റും, രണ്ട് ഗോളുകളും ഉണ്ടായിരുന്നു.
+
+ഒരു അത്ഭുതം തന്നെയായിരുന്നു അദ്ദേഹത്തിന്റെ പെർഫോമൻസ്. ഇപ്പോൾ പോർച്ചുഗലിന്റെ ഹീറോ ബ്രൂണോ ഫർണാണ്ടസ് ആണ്.
