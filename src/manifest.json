@@ -11,19 +11,19 @@
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "logo-1.png",
+            "src": "assets/blog/logo-1.png",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "any"
         },
         {
-            "src": "logo-2.png",
+            "src": "assests/blog/logo-2.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
         },
         {
-            "src": "logo-3",
+            "src": "assets/blog/logo-3",
             "type": "image/png",
             "sizes": "64x64",
             "purpose": "any"
