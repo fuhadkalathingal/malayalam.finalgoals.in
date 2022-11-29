@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og:http://ogp.me/ns#">
+
+<head prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-control" content="public">
+    <meta property="og:title" itemprop="title" name="title" content="Final Goals - Where You Get Latest ISL News">
+    <meta name="keywords" content="finalgoals,isl,footballnews,keralablasters">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="2 days">
+    <meta name="author" content="Final Goals">
+    <meta name="robots" content="index, follow">
+    <meta content='ar_AR' property='og:locale' />
+    <meta content='https://www.finalgoals.in/' property='og:url' />
+    <meta content='Finalgoals.in' property='og:title' />
+    <meta content='Finalgoals.in' property='og:site_name' />
+    <meta content='Finalgoals.in' property='og:image:alt' />
+    <meta content='@final_goals' name='twitter:site' />
+    <meta content='@final_goals' name='twitter:creator' />
+    <meta content='finalgoals.in' name='twitter:domain' />
+    <meta content='website' property='og:type' />
+    <link href='https://www.finalgoals.in/' rel='canonical' />
+    <link href='//www.google.com' rel='dns-prefetch' />
+    <meta name="robots" content="max-image-preview:large">
+    <meta property="og:description" itemprop="description" name="description"
+        content="You can read latest and trending news on our website and also you can watch live football matches." />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel=" stylesheet" href="css/slick.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css">
+    <link property="og:image" itemprop="image" rel="icon" type="icon/png"
+        href="https://cdn.dribbble.com/users/13308360/screenshots/19524770/media/91d643659927e1231efd16366cf6c38c.png?compress=1&resize=400x300&vertical=top">
+
+    <!--=============== BOXICONS ===============-->
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "dv1k4b0qe9");
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1540238782920365"
+        crossorigin="anonymous"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJ7D1TB7JE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZJ7D1TB7JE');
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org/",
+        "@type": "WebSite",
+        "name": "Finalgoals.in",
+        "alternateName": "Finalgoals.in",
+        "url": "https://www.finalgoals.in/"
+    }
+    </script>
+
+    <script>
+        if ("serviceWorker" in navigator) {
+            window.addEventListener("load", function () {
+                navigator.serviceWorker
+                    .register("/serviceWorker.js")
+                    .then(res => console.log("service worker registered"))
+                    .catch(err => console.log("service worker not registered", err))
+            })
+        }
+    </script>
+
+
+</head>
+
+<body>
+    {% include 'header.njk' %}
+
+    <main>
+        {{ content | safe }}
+    </main>
+
+    {% include 'footer.njk' %}
+
+
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>
+
+</body>
+
+</html>
