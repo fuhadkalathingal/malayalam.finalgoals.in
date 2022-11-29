@@ -1,6 +1,6 @@
 ---
-title: All football lovers are kindly invited to our site
-description: W﻿e started this site especially for football lovers.
+title: എല്ലാ ഫുട്ബോൾ പ്രേമികളെയും ഞങ്ങളുടെ സൈറ്റിലേക്ക് സ്നേഹപൂർവ്വം ക്ഷണിക്കുന്നു
+description: പ്രത്യേകിച്ച് ഫുട്ബോൾ പ്രേമികൾക്കായി ഈ സൈറ്റ് ആരംഭിച്ചിരിക്കുന്നു.
 keyword: welcome to final goals,football lovers
 author: Final Goals
 date: 2022-09-29T11:43:17.663Z
@@ -9,14 +9,14 @@ tags:
 image: /assets/blog/blue-clouds-airplane-illustrations-welcome-card-min.jpg
 imageAlt: welcome to final goals
 ---
-W﻿elcome to Final Goals, here you can see a lots of trending news, day by day live matches, ISL score board, new rumors etc..
+ഫൈനൽ ഗോളുകളിലേക്ക് സ്വാഗതം, ഇവിടെ നിങ്ങൾക്ക് ധാരാളം ട്രെൻഡിംഗ് വാർത്തകൾ, ദൈനംദിന തത്സമയ മത്സരങ്ങൾ, ISL സ്കോർ ബോർഡ്, പുതിയ കിംവദന്തികൾ തുടങ്ങിയവ കാണാം.
 
-W﻿e started this site especially for football lovers. There a lots of football news websites and apps, but we are different you all can enjoy the news in your language, in your tone. And also there is one important feature that is free live matches. Every day we stream live matches to give you the best in-depth coverage.
+പ്രത്യേകിച്ച് ഫുട്ബോൾ പ്രേമികൾക്കായി ഈ സൈറ്റ് ആരംഭിച്ചിരിക്കുന്നു. ധാരാളം ഫുട്ബോൾ വാർത്താ വെബ്‌സൈറ്റുകളും ആപ്പുകളും ഉണ്ട്, എന്നാൽ ഞങ്ങൾ വ്യത്യസ്തരാണ്, നിങ്ങൾക്കെല്ലാവർക്കും നിങ്ങളുടെ ഭാഷയിൽ, നിങ്ങളുടെ സ്വരത്തിൽ വാർത്തകൾ ആസ്വദിക്കാനാകും. കൂടാതെ സൗജന്യ തത്സമയ മത്സരങ്ങൾ എന്ന ഒരു പ്രധാന സവിശേഷത കൂടിയുണ്ട്. നിങ്ങൾക്ക് മികച്ച ആഴത്തിലുള്ള കവറേജ് നൽകുന്നതിന് ഞങ്ങൾ എല്ലാ ദിവസവും തത്സമയ മത്സരങ്ങൾ സ്ട്രീം ചെയ്യുന്നു.
 
-T﻿his is not only a football news website, its a community of football lovers. The trending news about ISL can notified to you in every tie you visit our website.
+ഇത് ഒരു ഫുട്ബോൾ വാർത്താ വെബ്സൈറ്റ് മാത്രമല്ല, ഫുട്ബോൾ പ്രേമികളുടെ കൂട്ടായ്മയാണ്. നിങ്ങൾ ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുന്ന ഓരോ ടൈയിലും ISL നെക്കുറിച്ചുള്ള ട്രെൻഡിംഗ് വാർത്തകൾ നിങ്ങളെ അറിയിക്കും.
 
-W﻿e made our website user-friendly so you can easily go and read the news on our website.
+ഞങ്ങളുടെ വെബ്‌സൈറ്റ് ഉപയോക്തൃ സൗഹൃദമാക്കിയതിനാൽ നിങ്ങൾക്ക് ഞങ്ങളുടെ വെബ്‌സൈറ്റിലെ വാർത്തകൾ എളുപ്പത്തിൽ പോയി വായിക്കാനാകും.
 
-T﻿his website was build by Muhammed Fuhad, a web designer from Kerala, who are passionate with programming. He saw many people who are struggling with money and they have no money to buy Hotstar's subscriptions and to watch the ISL matches. So he decided to stream live ISL matches for free for the poor ones of the country.
+പ്രോഗ്രാമിംഗിൽ അഭിനിവേശമുള്ള കേരളത്തിൽ നിന്നുള്ള വെബ് ഡിസൈനറായ മുഹമ്മദ് ഫുഹാദാണ് അദ്ദേഹത്തിന്റെ വെബ്‌സൈറ്റ് നിർമ്മിച്ചത്. ഹോട്ട്‌സ്റ്റാറിന്റെ സബ്‌സ്‌ക്രിപ്‌ഷൻ വാങ്ങാനും ഐഎസ്‌എൽ മത്സരങ്ങൾ കാണാനും പണമില്ലാതെ പണമില്ലാതെ ബുദ്ധിമുട്ടുന്ന പലരെയും അദ്ദേഹം കണ്ടു. അതിനാൽ രാജ്യത്തെ പാവപ്പെട്ടവർക്കായി ഐഎസ്എൽ മത്സരങ്ങൾ സൗജന്യമായി സ്ട്രീം ചെയ്യാൻ അദ്ദേഹം തീരുമാനിച്ചു.
 
-B﻿y saying a "Hi" we are invite you all to our website.
+ഒരു "ഹായ്" പറഞ്ഞുകൊണ്ട് ഞങ്ങൾ നിങ്ങളെ എല്ലാവരെയും ഞങ്ങളുടെ വെബ്‌സൈറ്റിലേക്ക് ക്ഷണിക്കുന്നു.
