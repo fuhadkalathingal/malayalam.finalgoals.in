@@ -16,6 +16,7 @@ title: Final Goals
     <meta name="author" content="Final Goals">
     <link href='https://www.finalgoals.in/' rel='canonical' />
     <link href='//www.google.com' rel='dns-prefetch' />
+    <link rel="manifest" href="manifest.json">
     <meta name="robots" content="max-image-preview:large">
     <title>{{ title }}</title>
     <meta name="description"
@@ -349,6 +350,26 @@ title: Final Goals
                 }
             });
         }
+    </script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/sw.js').then(function (registration) {
+                    console.log('Service worker successfully registered on scope', registration.scope);
+                }).catch(function (error) {
+                    console.log('Service worker failed to register');
+                });
+            });
+        }
+
+        self.addEventListener('install', function (event) {
+            console.log('Installed sw.js', event);
+        });
+
+        self.addEventListener('activate', function (event) {
+            console.log('Activated sw.js', event);
+        });
     </script>
 
 </body>
