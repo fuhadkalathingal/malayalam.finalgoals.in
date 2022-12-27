@@ -65,7 +65,7 @@ a:focus {
 .article-title {
   font-family: 'Anek Malayalam', sans-serif;
   font-size: 25px;
-  line-height: 100%;
+  line-height: 35px;
   margin-right: 20px;
   color: #181818;
 }
