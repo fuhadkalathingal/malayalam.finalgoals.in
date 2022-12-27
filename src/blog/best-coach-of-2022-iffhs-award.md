@@ -2,7 +2,7 @@
 title: ഐ എഫ് എഫ് എച്ച് എസ് അവാർഡ് 2022ലെ മികച്ച പരിശീലകൻ ആര്
 description: കഴിഞ്ഞവർഷം 2021 ഐ എഫ് എച്ച് എസ് റോബോട്ട് ഓ ബാൻസി എന്ന നൽകിയതെങ്കിൽ
   ഈ കൊല്ലം മുതൽ ആർക്കായിരിക്കും എന്ന് നമ്മൾ കണ്ടറിയണം
-keyword: iffhs,IFFHS AWARDS 2022 - THE CANDIDATES,awards,coach
+keyword: IFFHS AWARDS 2022 - THE CANDIDATES,awards,coach
 author: Final Goals
 date: 2022-12-27T06:01:22.304Z
 tags:
