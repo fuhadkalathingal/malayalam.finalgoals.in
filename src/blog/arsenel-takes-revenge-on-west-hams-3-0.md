@@ -1,5 +1,5 @@
 ---
-title: Arsenel takes revenge on west hams 3-0
+title: ഐസണൽ കുതിക്കുന്നു, ഇംഗ്ലീഷ് പ്രീമിയർ ലീഗ് ഇന്നലെ ആരംഭിച്ചു
 description: വേൾഡ് കപ്പിന് ശേഷം ഇന്നലെ ഇംഗ്ലീഷ് പ്രീമിയർ ലീഗ് ആരംഭിച്ചു.
   ബോക്സിംഗ് ഡേയിലെ ഒരു പിടി മികച്ച മത്സരങ്ങൾ ഉണ്ടായിരുന്നു.
 keyword: EPL,premiere league,arsenel,liverpool
