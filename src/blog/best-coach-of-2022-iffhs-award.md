@@ -6,7 +6,7 @@ keyword: IFFHS AWARDS 2022 - THE CANDIDATES,awards,coach
 author: Final Goals
 date: 2022-12-27T06:01:22.304Z
 tags:
-  - main
+  - post
 image: /assets/blog/carlo-ancelotti-and-pep-guardiola.jpeg
 imageAlt: IFFHS AWARDS 2022
 ---
