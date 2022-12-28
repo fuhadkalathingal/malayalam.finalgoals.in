@@ -11,7 +11,7 @@
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "assests/blog/logo-2.png",
+            "src": "/assets/blog/logo-2.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
