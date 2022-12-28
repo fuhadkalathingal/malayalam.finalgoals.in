@@ -1,5 +1,5 @@
 ---
-title: PSG's Big Squad; PSG VS Strasbourg
+title: പിഎസ്ജിയുടെ ബിഗ് സ്ക്വാഡ്; സ്ട്രാസ്ബർഗിനെതിരായ പിഎസ്ജിയുടെ മത്സരം
 description: ലീഗ് വണ്ണില്‍ പി.എസ്.ജി ഇന്ന് കളിക്കാൻ ഇറങ്ങുകയാണ് വേൾഡ് കപ്പിന്
   ശേഷമുള്ള അവരുടെ ആദ്യ ലീഗ് വൺ മത്സരമാണ്.
 keyword: psg,leomessi,mbappe,neymer
