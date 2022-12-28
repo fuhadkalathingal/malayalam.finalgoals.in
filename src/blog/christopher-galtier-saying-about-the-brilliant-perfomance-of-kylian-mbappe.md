@@ -1,5 +1,5 @@
 ---
-title: Christopher Galtier saying about the brilliant perfomance of Kylian Mbappe
+title: എംപാപ്പയെ കുറിച് ക്രിസ്റ്റോഫർ ഗൾട്ടിയർ പറയുന്നത്
 description: സൂപ്പർതാരം എം പാപ്പെ സ്കൂളിൽ കളിക്കുമോ എന്ന് ഇപ്പോഴും
   വ്യക്തമായില്ല. പക്ഷേ അദ്ദേഹം ടീമിനൊപ്പം നല്ല രീതിയിൽ ട്രെയിനിങ്
   നടത്തുന്നുണ്ട്.
