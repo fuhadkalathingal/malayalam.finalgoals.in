@@ -1,12 +1,12 @@
 ---
-title: PSG's coach questioned Neymar's red card
+title: നെയ്മറിന് ലഭിച്ച റെഡ് കാർഡിന് എതിരെ പി എസ് ജിയുടെ പരിശീലകൻ സംശയം ഉന്നയിച്ചു
 description: ആദ്യത്തേത് ഒരല്പം കടന്നുപോയില്ലേ അതിനുമുമ്പ് നെയ്‌മർ ജെ.ആർ ഒരുപാട്
   തവണ ഫൗൾ ചെയ്യുന്നതൊന്നും റഫ്രി കണ്ടില്ലേ
 keyword: netmer,cristophe galtier,redcard,psg
 author: Final Goals
 date: 2022-12-29T07:54:59.706Z
 tags:
-  - post
+  - trending1
 image: https://staticg.sportskeeda.com/editor/2022/10/6cccd-16652926430473-1920.jpg
 imageAlt: Cristophe Galtier & Neymer JR
 ---
