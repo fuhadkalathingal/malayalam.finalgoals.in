@@ -3,7 +3,7 @@ title: "ഹാലണ്ടിന്റെ ഗോളടി മേളം തുട
   മാഞ്ചസ്റ്റർ യുണൈറ്റഡ്"
 description: കഴിഞ്ഞ പതിനാല് മത്സരങ്ങളിൽ നിന്നാണ് ഇത്രയും അധികം ഗോളുകൾ പ്രീമിയർ
   ലീഗിൽ അദ്ദേഹം അടിച്ചു കൂട്ടിയിരിക്കുന്നത്.
-keyword: haalan,manchester,city,epl,premiereleage
+keyword: haaland,manchester,city,epl,premiereleage
 author: Final Goals
 date: 2022-12-29T12:17:17.159Z
 tags:
