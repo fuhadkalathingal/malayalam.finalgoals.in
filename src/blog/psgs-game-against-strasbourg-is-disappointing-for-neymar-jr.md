@@ -1,5 +1,5 @@
 ---
-title: PSG's game against Strasbourg is disappointing for Neymar Jr
+title: സ്റ്റാർസ്ബർഗിന് എതിരെയുള്ള പി.എസ്.ജി യുടെ കളി നെയ്മർ ജെ.ആർ ന് നിരാശാജനകമാകുന്നു
 description: നെയ്മർ ജെ.ആർ നെ സംബന്ധിച്ച ഒരു ദുരന്തമായി മാറുന്ന കാഴ്ചയാണ് നമ്മൾ കണ്ടത്
 keyword: neymerjr,redcard,psg
 author: Final Goals
