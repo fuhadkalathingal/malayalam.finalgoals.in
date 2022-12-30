@@ -1,5 +1,5 @@
 ---
-title: Pele the lengend has passes away at the age of 82
+title: ഫുട്ബോള്‍ ഇതിഹാസം പെലെ അന്തരിച്ചു
 description: ബ്രസീലിനായി ഏറ്റവും കൂടുതല്‍ ഗോള്‍ നേടിയ താരമായ പെലെ അവരുടെ മൂന്ന്
   ലോകകപ്പ് വിജയങ്ങളില്‍(1958, 1962, 1970) നിര്‍ണായക സംഭാവന നല്‍കി
 keyword: pele,brazil,rippele,sad,goat
