@@ -6,7 +6,7 @@ keyword: neymer,cristophe galtier,redcard,psg
 author: Final Goals
 date: 2022-12-29T07:54:59.706Z
 tags:
-  - trending1
+  - post
 image: https://staticg.sportskeeda.com/editor/2022/10/6cccd-16652926430473-1920.jpg
 imageAlt: Cristophe Galtier & Neymer JR
 ---
