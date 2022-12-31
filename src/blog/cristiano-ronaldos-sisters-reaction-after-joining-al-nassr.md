@@ -1,5 +1,5 @@
 ---
-title: Cristiano Ronaldo's Sisters Reaction after joining Al Nassr
+title: അൽ നാസറിൽ ചേർന്നതിന് ശേഷം ക്രിസ്റ്റ്യാനോ റൊണാൾഡോയുടെ സഹോദരിമാരുടെ പ്രതികരണം
 description: ഈ ഘട്ടത്തിൽ ക്രിസ്റ്റ്യാനോയുടെ രണ്ട് സഹോദരിമാരുടെ പ്രതികരണം ഇങ്ങനെയാണ്
 keyword: katioaveiro,elmaaveiro,cristiano
 author: Final Goals
