@@ -10,7 +10,7 @@ date: 2022-12-31T06:53:19.073Z
 tags:
   - post
 image: https://assets-fr.imgfoot.com/media/cache/1200x900/cr7-al-nassr-img1.jpg
-imageAlt: Cristiano Joing Al Nasar
+imageAlt: Cristiano Joining Al Nasar
 ---
 ക്രിസ്ത്യാനോ റൊണാൾഡോ സൗദി അറേബ്യൻ ക്ലബ്ബായ അൽ നസറിൽ ജോയിൻ ചെയ്തിരിക്കുന്നു. 
 
