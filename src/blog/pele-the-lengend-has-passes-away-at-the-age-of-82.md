@@ -6,7 +6,7 @@ keyword: pele,brazil,rippele,sad,goat
 author: Final Goals
 date: 2022-12-30T04:37:59.585Z
 tags:
-  - main
+  - post
 image: /assets/blog/img_20221230_101130.jpg
 imageAlt: Pelé
 ---
