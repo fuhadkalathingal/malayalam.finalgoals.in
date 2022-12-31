@@ -5,7 +5,7 @@ keyword: neymerjr,redcard,psg
 author: Final Goals
 date: 2022-12-29T07:34:43.471Z
 tags:
-  - main
+  - post
 image: https://ca-times.brightspotcdn.com/dims4/default/55964a3/2147483647/strip/true/crop/2571x1674+0+0/resize/1486x968!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc2%2F28%2Fbd8d9a2999887c9cac7537af9fd2%2F5a6c78ab60104fa7a88ac108d3861669
 imageAlt: Neymer JR
 ---
