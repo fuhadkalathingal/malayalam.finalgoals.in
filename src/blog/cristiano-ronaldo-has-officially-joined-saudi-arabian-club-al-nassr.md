@@ -8,7 +8,7 @@ keyword: cristiano,ronaldo,alnasar,asia
 author: Final Goals
 date: 2022-12-31T06:53:19.073Z
 tags:
-  - post
+  - main
 image: https://assets-fr.imgfoot.com/media/cache/1200x900/cr7-al-nassr-img1.jpg
 imageAlt: Cristiano Joining Al Nasar
 ---
