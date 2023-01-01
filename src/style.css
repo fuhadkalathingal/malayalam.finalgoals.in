@@ -70,6 +70,12 @@ a:focus {
   color: #181818;
 }
 
+@media screen and (max-width: 425px) {
+  .article-title {
+    font-size: 20px;
+   }
+}
+
 .main-article p{
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
@@ -91,7 +97,6 @@ a:focus {
   transition: opacity 0.2s ease-in-out;
   object-fit: cover;
   min-height: 100%;
-  margin-top: 4.5rem;
   border-radius: 1.5%;
 }
 
