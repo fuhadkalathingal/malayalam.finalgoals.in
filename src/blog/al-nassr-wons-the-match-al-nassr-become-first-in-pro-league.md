@@ -1,5 +1,5 @@
 ---
-title: Al Nassr wons the match, Al Nassr become first in pro league
+title: അൽ നസറിന് ജയം, പ്രൊ ലിഗിൽ അവർ ഒന്നാമത്
 description: ക്രിസ്ത്യാനോ റൊണാൾഡോ സൗദി അറേബ്യൻ ക്ലബ്ബായ അൽ നസ്സറിൽ സൈൻഇൻ
   ചെയ്തതോടെ ആരാധകർ ആകാംക്ഷയിലാണ്.
 keyword: cristiano,alnassr,aboobaker
