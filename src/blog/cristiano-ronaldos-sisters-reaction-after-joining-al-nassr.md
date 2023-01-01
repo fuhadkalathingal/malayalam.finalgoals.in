@@ -5,7 +5,7 @@ keyword: katioaveiro,elmaaveiro,cristiano
 author: Final Goals
 date: 2022-12-31T08:10:48.634Z
 tags:
-  - trending1
+  - post
 image: https://cdn.punchng.com/wp-content/uploads/2018/12/04165256/CR7-with-His-Sisters.jpg
 imageAlt: Katia Aveiro & Elma Aveiro
 ---
