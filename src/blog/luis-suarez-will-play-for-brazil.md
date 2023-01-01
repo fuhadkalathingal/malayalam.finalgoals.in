@@ -7,7 +7,7 @@ keyword: suarez,luissuarez,brazil,gremio
 author: Final Goals
 date: 2023-01-01T12:39:34.600Z
 tags:
-  - post
+  - main
 image: https://assets.telegraphindia.com/telegraph/2022/Aug/1659506051_1.jpg
 imageAlt: Luis Suarez
 ---
